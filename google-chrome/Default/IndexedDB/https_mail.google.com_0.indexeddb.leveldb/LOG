@@ -1,0 +1,6 @@
+2024/01/16-07:10:13.740 77b Reusing MANIFEST /home/kuroneko/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/16-07:10:13.740 77b Recovering log #3
+2024/01/16-07:10:13.745 77b Reusing old log /home/kuroneko/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2024/01/16-07:10:29.577 77c Level-0 table #5: started
+2024/01/16-07:10:29.598 77c Level-0 table #5: 2620942 bytes OK
+2024/01/16-07:10:29.600 77c Delete type=0 #3

@@ -1,0 +1,12 @@
+# GIMP action-history
+
+(history-item "view-rotate-270" 1)
+(history-item "file-open" 0)
+(history-item "file-save" 2)
+(history-item "view-rotate-90" 1)
+(history-item "dialogs-keyboard-shortcuts" 0)
+(history-item "view-rotate-180" 0)
+(history-item "tool-options-save-new-preset" 0)
+(history-item "file-save-a-copy" 1)
+
+# end of action-history

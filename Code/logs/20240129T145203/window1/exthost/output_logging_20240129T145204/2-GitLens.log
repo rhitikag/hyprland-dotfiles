@@ -1,0 +1,9 @@
+GitLens v14.7.0 activating in Visual Studio Code (1.85.1) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (4ca0e4329f76b003eb02b33e170e644bbabc2f9535f665863eb746a781bae360|3bd230dc-26a0-4972-8614-ff59b4d1895b1706520123603)
+To enable debug logging, set `"gitlens.outputLevel: "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2024-01-29 09:22:05.546] [GIT  ] [/home/kuroneko/Desktop/bruh] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [27ms]
+
+[2024-01-29 09:22:05.547] [GIT  ] [/home/kuroneko/Desktop/project 1_random anime generator] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [29ms]
+
+[2024-01-29 09:22:05.579] [GIT  ] [/home/kuroneko/Desktop/code] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [10ms]
+[2024-01-29 09:22:07.370] [GIT  ] [/home/kuroneko/Desktop/bruh] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [5ms]
+[2024-01-29 09:22:55.240] [GIT  ] [/home/kuroneko/Desktop] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [4ms]

@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main(void)
+{
+    // The given elephant seal weights data
+    int weights[] = {5713, 6936, 8764, 6702, /*... and the rest of the weights ...*/};
+
+    // Calculate the total sum of weights
+    int total = 0;
+    int num_weights = sizeof(weights) / sizeof(weights[0]);
+
+    for (int i = 0; i < num_weights; i++)
+    {
+        total += weights[i];
+    }
+
+    // Calculate the average weight
+    double average = (double)total / num_weights;
+
+    // Print the average weight
+    printf("Average weight: %lf\n", average);
+
+    return 0;
+}

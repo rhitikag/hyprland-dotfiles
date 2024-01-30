@@ -1,0 +1,39 @@
+2024-01-21 09:13:13.132 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.165 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.276 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.325 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.327 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.329 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.406 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.544 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.564 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.583 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.602 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.672 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.736 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.808 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:13.876 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:15.365 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:15.481 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:15.483 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:13:16.040 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:15:17.894 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:15:17.913 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:15:17.933 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:16:18.995 [info] Getting Manifest... eamodio.gitlens
+2024-01-21 09:16:19.005 [info] Installing extension: eamodio.gitlens
+2024-01-21 09:16:19.045 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:16:19.093 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:16:19.135 [warning] [cmake-tools]: Couldn't find message for key cmake-tools.configuration.cmake.options.advanced.statusBarVisibility.variant.description.
+2024-01-21 09:16:23.382 [warning] Extension signature verification failed with error 'UnknownError': eamodio.gitlens
+2024-01-21 09:16:23.587 [info] Extracted extension to file:///home/kuroneko/.vscode/extensions/eamodio.gitlens-14.7.0: eamodio.gitlens
+2024-01-21 09:16:23.595 [info] Renamed to /home/kuroneko/.vscode/extensions/eamodio.gitlens-14.7.0
+2024-01-21 09:16:23.599 [info] Extracting extension completed. eamodio.gitlens
+2024-01-21 09:16:23.609 [info] Extension installed successfully: eamodio.gitlens
+2024-01-21 09:16:23.683 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kuroneko/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kuroneko/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

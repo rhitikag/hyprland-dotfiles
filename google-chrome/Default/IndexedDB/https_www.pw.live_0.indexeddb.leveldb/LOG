@@ -1,0 +1,36 @@
+2024/01/27-09:45:17.800 1480 Reusing MANIFEST /home/kuroneko/.config/google-chrome/Default/IndexedDB/https_www.pw.live_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/27-09:45:17.800 1480 Recovering log #36
+2024/01/27-09:45:17.801 1480 Reusing old log /home/kuroneko/.config/google-chrome/Default/IndexedDB/https_www.pw.live_0.indexeddb.leveldb/000036.log 
+2024/01/27-09:45:17.801 1480 Delete type=2 #35
+2024/01/27-09:45:18.173 1468 Level-0 table #41: started
+2024/01/27-09:45:18.174 1468 Level-0 table #41: 14573 bytes OK
+2024/01/27-09:45:18.175 1468 Delete type=0 #36
+2024/01/27-09:45:18.176 1468 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x00\x00\x05' @ 3243 : 1
+2024/01/27-09:45:18.176 1468 Compacting 1@0 + 1@1 files
+2024/01/27-09:45:18.177 1468 Generated table #42@0: 482 keys, 25147 bytes
+2024/01/27-09:45:18.177 1468 Compacted 1@0 + 1@1 files => 25147 bytes
+2024/01/27-09:45:18.179 1468 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/27-09:45:18.179 1468 Delete type=2 #41
+2024/01/27-09:45:18.179 1468 Manual compaction at level-0 from '\x00\x15\x00\x00\x05' @ 3243 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/27-09:45:18.595 1481 Level-0 table #44: started
+2024/01/27-09:45:18.596 1481 Level-0 table #44: 648 bytes OK
+2024/01/27-09:45:18.599 1481 Delete type=2 #38
+2024/01/27-09:45:18.599 1481 Delete type=0 #40
+2024/01/27-09:45:18.599 1468 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x00\x00\x05' @ 3262 : 1
+2024/01/27-09:45:18.599 1468 Compacting 1@0 + 1@1 files
+2024/01/27-09:45:18.601 1468 Generated table #45@0: 486 keys, 25176 bytes
+2024/01/27-09:45:18.601 1468 Compacted 1@0 + 1@1 files => 25176 bytes
+2024/01/27-09:45:18.603 1468 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/27-09:45:18.604 1468 Delete type=2 #44
+2024/01/27-09:45:18.604 1468 Manual compaction at level-0 from '\x00\x16\x00\x00\x05' @ 3262 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/27-09:45:22.183 1469 Level-0 table #47: started
+2024/01/27-09:45:22.185 1469 Level-0 table #47: 41829 bytes OK
+2024/01/27-09:45:22.188 1469 Delete type=0 #43
+2024/01/27-09:45:22.188 1469 Delete type=2 #42
+2024/01/27-09:45:22.188 1469 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at '\x00\x17\x00\x00\x05' @ 3545 : 1
+2024/01/27-09:45:22.188 1469 Compacting 1@0 + 1@1 files
+2024/01/27-09:45:22.189 1469 Generated table #48@0: 506 keys, 24009 bytes
+2024/01/27-09:45:22.190 1469 Compacted 1@0 + 1@1 files => 24009 bytes
+2024/01/27-09:45:22.191 1469 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/27-09:45:22.191 1469 Delete type=2 #47
+2024/01/27-09:45:22.191 1469 Manual compaction at level-0 from '\x00\x17\x00\x00\x05' @ 3545 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,10 @@
+[Added Associations]
+image/jpeg=org.gnome.eog.desktop;org.xfce.ristretto.desktop;
+application/pdf=okularApplication_pdf.desktop;vim.desktop;
+image/png=org.gnome.eog.desktop;org.xfce.ristretto.desktop;
+text/plain=org.xfce.mousepad.desktop;
+video/x-matroska=vlc.desktop;
+text/x-c++src=code.desktop;
+
+[Default Applications]
+application/pdf=okularApplication_pdf.desktop

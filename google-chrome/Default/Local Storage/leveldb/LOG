@@ -1,0 +1,24 @@
+2024/01/30-07:09:25.762 4 Reusing MANIFEST /home/kuroneko/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/01/30-07:09:25.764 4 Recovering log #660
+2024/01/30-07:09:25.770 4 Reusing old log /home/kuroneko/.config/google-chrome/Default/Local Storage/leveldb/000660.log 
+2024/01/30-07:09:40.959 4 Level-0 table #664: started
+2024/01/30-07:09:40.968 4 Level-0 table #664: 25604 bytes OK
+2024/01/30-07:09:40.972 4 Delete type=0 #660
+2024/01/30-07:14:08.745 6 Level-0 table #666: started
+2024/01/30-07:14:08.753 6 Level-0 table #666: 20679 bytes OK
+2024/01/30-07:14:08.756 6 Delete type=0 #663
+2024/01/30-07:28:00.415 6 Level-0 table #668: started
+2024/01/30-07:28:00.422 6 Level-0 table #668: 23906 bytes OK
+2024/01/30-07:28:00.424 6 Delete type=0 #665
+2024/01/30-07:28:00.424 6 Compacting 4@0 + 1@1 files
+2024/01/30-07:28:00.442 6 Generated table #669@0: 573 keys, 1322589 bytes
+2024/01/30-07:28:00.442 6 Compacted 4@0 + 1@1 files => 1322589 bytes
+2024/01/30-07:28:00.444 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/30-07:28:00.444 6 Delete type=2 #668
+2024/01/30-07:28:00.444 6 Delete type=2 #661
+2024/01/30-07:28:00.444 6 Delete type=2 #664
+2024/01/30-07:28:00.444 6 Delete type=2 #666
+2024/01/30-07:28:00.444 6 Delete type=2 #659
+2024/01/30-07:28:46.919 4 Level-0 table #671: started
+2024/01/30-07:28:46.929 4 Level-0 table #671: 64578 bytes OK
+2024/01/30-07:28:46.932 4 Delete type=0 #667

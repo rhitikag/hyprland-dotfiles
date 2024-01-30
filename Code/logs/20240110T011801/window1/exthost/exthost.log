@@ -1,0 +1,11 @@
+2024-01-10 01:18:03.160 [info] Extension host with pid 2236 started
+2024-01-10 01:18:03.160 [info] Skipping acquiring lock for /home/kuroneko/.config/Code/User/workspaceStorage/50fe69d1e2eb8a4fab5710367b50b21c.
+2024-01-10 01:18:03.296 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-10 01:18:03.346 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-10 01:18:03.375 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-10 01:18:03.405 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-10 01:18:03.458 [info] Eager extensions activated
+2024-01-10 01:18:03.526 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-10 01:18:03.530 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-10 01:26:50.418 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-10 01:26:50.432 [info] Extension host with pid 2236 exiting with code 0

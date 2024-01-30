@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main() {
+    printf("In twilight's embrace, the stars ignite,\n");
+    printf("Whispers of the wind, a gentle delight.\n");
+    printf("Moonbeams dance on the silent sea,\n");
+    printf("Nature's lullaby, a tranquil decree.\n");
+    printf("In dreams we wander, where the heart is free.\n");
+
+    return 0;
+}
+ 

@@ -1,0 +1,68 @@
+00:00:00.001215 main     VirtualBox XPCOM Server 7.0.12 r159484 linux.amd64 (Oct 17 2023 12:57:12) release log
+00:00:00.001217 main     Log opened 2024-01-19T15:38:57.608377000Z
+00:00:00.001217 main     Build Type: release
+00:00:00.001218 main     OS Product: Linux
+00:00:00.001218 main     OS Release: 6.7.0-arch3-1
+00:00:00.001219 main     OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 13 Jan 2024 14:37:14 +0000
+00:00:00.001234 main     DMI Product Name: VivoBook_ASUSLaptop TP470EA_TP470EA
+00:00:00.001237 main     DMI Product Version: 1.0       
+00:00:00.001240 main     Firmware type: UEFI
+00:00:00.001440 main     Secure Boot: Disabled
+00:00:00.001457 main     Host RAM: 7637MB (7.4GB) total, 6930MB (6.7GB) available
+00:00:00.001458 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001459 main     Process ID: 948
+00:00:00.001459 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002955 main     IPC socket path: /tmp/.vbox-kuroneko-ipc/ipcd
+00:00:00.109349 nspr-2   VirtualBox: object creation starts
+00:00:00.111196 nspr-2   Home directory: '/home/kuroneko/.config/VirtualBox'
+00:00:00.111570 nspr-2   Loading settings file "/home/kuroneko/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.115909 nspr-2   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.116184 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.132374 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.134369 nspr-2   HostDnsMonitor: initializing
+00:00:00.134612 nspr-2   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.134627 nspr-2   NAT: resolv.conf: FIXME: ignoring IPv6 zone %wlan0
+00:00:00.134630 nspr-2   NAT: resolv.conf: nameserver fe80::f2b4:d2ff:fede:1fb6
+00:00:00.134648 nspr-2   HostDnsMonitor: updating information
+00:00:00.134676 nspr-2   HostDnsMonitor: old information
+00:00:00.134678 nspr-2     no server entries
+00:00:00.134681 nspr-2     no domain set
+00:00:00.134682 nspr-2     no search string entries
+00:00:00.134684 nspr-2   HostDnsMonitor: new information
+00:00:00.134686 nspr-2     server 1: 192.168.0.1
+00:00:00.134688 nspr-2     server 2: fe80::f2b4:d2ff:fede:1fb6%wlan0
+00:00:00.134690 nspr-2     no domain set
+00:00:00.134692 nspr-2     no search string entries
+00:00:00.139600 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.140267 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.144787 nspr-2   Loading settings file "/home/kuroneko/VirtualBox VMs/pseudo arch/pseudo arch.vbox" with version "1.19-linux"
+00:00:00.146570 nspr-2   VirtualBox: object created
+00:00:00.609936 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:22.835582 nspr-3   Launched VM: 4160758560 pid: 1001 (0x3e9) frontend: GUI/Qt name: pseudo arch
+00:00:22.853386 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:23.033208 nspr-4   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:23.386983 nspr-6   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:27.572576 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:27.583258 nspr-5   Saving settings file "/home/kuroneko/VirtualBox VMs/pseudo arch/pseudo arch.vbox" with version "1.19-linux"
+00:00:27.588470 nspr-5   Finished saving settings file "/home/kuroneko/VirtualBox VMs/pseudo arch/pseudo arch.vbox"
+00:00:27.599500 nspr-5   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:27.615033 nspr-5   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:27.625213 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:27.787699 nspr-4   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:27.788198 nspr-9   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:27.808960 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:27.887126 nspr-5   Saving settings file "/home/kuroneko/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:27.889812 nspr-5   Finished saving settings file "/home/kuroneko/.config/VirtualBox/VirtualBox.xml"
+00:00:27.975273 nspr-5   Saving settings file "/home/kuroneko/VirtualBox VMs/pseudo arch/pseudo arch.vbox" with version "1.19-linux"
+00:00:27.977981 nspr-5   Finished saving settings file "/home/kuroneko/VirtualBox VMs/pseudo arch/pseudo arch.vbox"
+00:00:27.985409 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:30.663263 nspr-3   Saving settings file "/home/kuroneko/VirtualBox VMs/pseudo arch/pseudo arch.vbox" with version "1.19-linux"
+00:00:30.670196 nspr-3   Finished saving settings file "/home/kuroneko/VirtualBox VMs/pseudo arch/pseudo arch.vbox"
+00:11:23.689701 nspr-9   Saving settings file "/home/kuroneko/VirtualBox VMs/pseudo arch/pseudo arch.vbox" with version "1.19-linux"
+00:11:23.691819 nspr-9   Finished saving settings file "/home/kuroneko/VirtualBox VMs/pseudo arch/pseudo arch.vbox"
+00:11:30.197693 main     VirtualBox: object deletion starts
+00:11:30.197757 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/kuroneko/VirtualBox VMs/pseudo arch/pseudo arch.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:11:30.197845 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:11:30.198478 main     HostDnsMonitor: shutting down ...
+00:11:30.198953 main     HostDnsMonitor: shut down
+00:11:30.210420 main     VirtualBox: object deleted

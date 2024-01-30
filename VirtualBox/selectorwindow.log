@@ -1,0 +1,23 @@
+00:00:00.474277 VirtualBox GUI VM Selector Window 7.0.12 r159484 linux.amd64 (Oct 17 2023 12:57:12) release log
+00:00:00.474278 Log opened 2024-01-19T15:38:57.778184000Z
+00:00:00.474279 Build Type: release
+00:00:00.474280 OS Product: Linux
+00:00:00.474280 OS Release: 6.7.0-arch3-1
+00:00:00.474281 OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 13 Jan 2024 14:37:14 +0000
+00:00:00.474294 DMI Product Name: VivoBook_ASUSLaptop TP470EA_TP470EA
+00:00:00.474297 DMI Product Version: 1.0       
+00:00:00.474300 Firmware type: UEFI
+00:00:00.474451 Secure Boot: Disabled
+00:00:00.474472 Host RAM: 7637MB (7.4GB) total, 6921MB (6.7GB) available
+00:00:00.474473 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.474473 Process ID: 911
+00:00:00.474474 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.474488 Qt version: 5.15.12
+00:00:00.475218 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.482108 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.882549 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.899223 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 480x270 x 960x540
+00:00:27.912863 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:28.286412 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:30.648001 GUI: UICommon: Handling aboutToQuit request..
+00:00:31.495854 GUI: UICommon: aboutToQuit request handled!

@@ -1,0 +1,41 @@
+[Desktop Entry]
+FullScreen=true
+shouldShowMenuBarComingFromFullScreen=false
+shouldShowToolBarComingFromFullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+1920x1080 screen: Height=1080
+1920x1080 screen: Width=1920
+1920x1080 screen: XPosition=966
+1920x1080 screen: YPosition=46
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAACbAAAB+/wCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAAAAAAAB+wAAAQ4A///+AAAC+QAAAfsAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/GATE/college/R21-CST Curriculam _ Syllabus.pdf
+File10[$e]=$HOME/Desktop/GATE/NPTEL/Module-01
+File2[$e]=$HOME/Desktop/GATE/operating system/Abraham Silberschatz-Operating System Concepts (9th,2012_12).pdf
+File3[$e]=$HOME/Desktop/GATE/operating system/Operating-systems-text-book-3.pdf
+File4[$e]=$HOME/ranger-1.9.3/.github/PULL_REQUEST_TEMPLATE.md
+File5[$e]=$HOME/ranger-1.9.3/README.md
+File6[$e]=$HOME/Downloads/Module 01.pdf
+File7[$e]=$HOME/Downloads/NPTEL/Module-01
+File8[$e]=$HOME/Desktop/GATE/NPTEL/Bjarne-Stroustrup-The-C++-programming-language-Addison-Wesley-(1997).pdf
+File9[$e]=$HOME/arch_hyprland_dotfiles-main/README.md
+Name1[$e]=R21-CST Curriculam _ Syllabus.pdf
+Name10[$e]=Module-01
+Name2[$e]=Abraham Silberschatz-Operating System Concepts (9th,2012_12).pdf
+Name3[$e]=Operating-systems-text-book-3.pdf
+Name4[$e]=PULL_REQUEST_TEMPLATE.md
+Name5[$e]=README.md
+Name6[$e]=Module 01.pdf
+Name7[$e]=Module-01
+Name8[$e]=Bjarne-Stroustrup-The-C++-programming-language-Addison-Wesley-(1997).pdf
+Name9[$e]=README.md

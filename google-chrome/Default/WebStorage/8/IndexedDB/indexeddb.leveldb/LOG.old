@@ -1,0 +1,7 @@
+2024/01/11-06:36:59.751 461b Reusing MANIFEST /home/kuroneko/.config/google-chrome/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/11-06:36:59.751 461b Recovering log #4
+2024/01/11-06:36:59.751 461b Reusing old log /home/kuroneko/.config/google-chrome/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/000004.log 
+2024/01/11-06:36:59.755 461b Level-0 table #8: started
+2024/01/11-06:36:59.757 461b Level-0 table #8: 1848 bytes OK
+2024/01/11-06:36:59.759 461b Delete type=0 #4
+2024/01/11-06:36:59.760 461b Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

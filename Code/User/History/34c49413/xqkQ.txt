@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+    printf("In the quiet of the night, a whispering breeze,\n");
+    printf("Stars above, like diamonds, a cosmic tease.\n");
+    printf("Moonlight dancing on the waves, a tranquil sea,\n");
+    printf("Nature's poetry, a serene melody.\n");
+    printf("\n");
+    printf("Mountains standing tall, touching the sky,\n");
+    printf("Majestic and proud, as time passes by.\n");
+    printf("A symphony of colors, as the sun sets low,\n");
+    printf("Painting the horizon, a vibrant afterglow.\n");
+    printf("\n");
+    printf("In the tapestry of life, each moment we weave,\n");
+    printf("Love, laughter, and dreams, the joy we perceive.\n");
+    printf("Through the seasons of change, a constant embrace,\n");
+    printf("A timeless journey, an eternal grace.\n");
+
+    return 0;
+}

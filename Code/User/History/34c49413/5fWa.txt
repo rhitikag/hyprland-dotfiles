@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+    // Input value (between 0 and 1, non-inclusive)
+    double inputValue;
+
+    // Get user input
+    printf("Enter a value between 0 and 1 (non-inclusive): ");
+    scanf("%lf", &inputValue);
+
+    // Check if the input value is within the specified range
+    if (inputValue > 0 && inputValue < 1) {
+        // Calculate and print the sine of the input value
+        double sineValue = sin(inputValue);
+        printf("The sine of %.2lf is %.6lf\n", inputValue, sineValue);
+    } else {
+        // Print an error message if the input is not within the specified range
+        printf("Error: Please enter a value between 0 and 1 (non-inclusive).\n");
+    }
+
+    return 0;
+}
